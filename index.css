@@ -52,3 +52,14 @@ body {
     letter-spacing: 4px; /* 数字拉开，更像时钟 */
 }
 
+#clear{
+    background: transparent;   /* 你想要的背景色 */
+    color: white;           /* 文字白色 */
+    border: 1px solid white;
+    padding: 8px 14px;
+    margin: 5px;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+}
+

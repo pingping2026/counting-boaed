@@ -31,3 +31,10 @@ function addguest3(){
     result2 +=3
     document.getElementById("num2").textContent =result2
 }
+
+function zero(){
+    result1 = 0
+    result2 = 0
+    document.getElementById("num1").textContent =result1
+    document.getElementById("num2").textContent =result2
+}
